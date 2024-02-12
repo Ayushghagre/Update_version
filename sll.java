@@ -26,7 +26,7 @@ public class LinkedListExamples
          Node second      = new Node(200);  
          Node third       = new Node(300);  
          Node fourth= new Node(400);
-         Node fifth= new Node(500);
+        
   
  list.head.next = second; // Link first node with the second node  
  second.next = third; // Link first node with the second node  
